@@ -700,3 +700,5 @@ In the next chapter, we'll explore Node.js fundamentals and see how these JavaSc
 - [JavaScript.info](https://javascript.info/)
 - [You Don't Know JS book series](https://github.com/getify/You-Dont-Know-JS)
 - [Async JavaScript documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
+
+[![琴思](IMG_QS.webp)](https://www.instagram.com/chinshi1005/)
