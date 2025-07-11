@@ -1,5 +1,7 @@
 # Chapter 2: JavaScript Fundamentals for Full-Stack Development
 
+![CoverPage](IMG_QS.webp)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Why JavaScript for Full-Stack Development?](#why-javascript-for-full-stack-development)
