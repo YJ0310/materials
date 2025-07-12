@@ -1,6 +1,6 @@
 # Full Stack Website Development I (FSWD101)
 
-![Cover](SaveClip.App_AQOXhLwqTA23AZJxxI2bO3c7_uK8RpP2sdz0YegxIrj0N1zn-S8h-_9NqivmACbmyoG-xv0yMhpXIxa2_J4Prk0Je3D57a7Sd8HSU_U.mp4)
+![Cover](IMG_QS.webp)
 
 ## Chapter 2 Assignment: JavaScript Fundamentals for Full-Stack Development
 
