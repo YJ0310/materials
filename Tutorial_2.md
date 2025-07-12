@@ -1,6 +1,7 @@
 # Full Stack Website Development I (FSWD101)
 
 ![Cover](SaveClip.App_AQOXhLwqTA23AZJxxI2bO3c7_uK8RpP2sdz0YegxIrj0N1zn-S8h-_9NqivmACbmyoG-xv0yMhpXIxa2_J4Prk0Je3D57a7Sd8HSU_U.mp4)
+
 ## Chapter 2 Assignment: JavaScript Fundamentals for Full-Stack Development
 
 **Course:** Full Stack Website Development I  
@@ -13,6 +14,7 @@
 ---
 
 ## Instructions
+
 - Answer all questions
 - Write clean, well-commented code
 - Test your code before submission
@@ -26,6 +28,7 @@
 **Scenario:** You are developing an online shopping cart system for "Smol Tako Electronics Store". The system needs to handle product information and customer data efficiently using modern JavaScript features.
 
 **Given Data:**
+
 ```javascript
 const products = [
     { id: 1, name: "Laptop", price: 2500, category: "Electronics", inStock: true },
@@ -340,6 +343,7 @@ await tracer.processContactTracing(1);
 ```
 
 **Expected Output for Health Report:**
+
 ```javascript
 tracer.generateHealthReport();
 
